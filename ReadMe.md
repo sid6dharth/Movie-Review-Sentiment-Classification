@@ -1,7 +1,7 @@
 # IMDb Movie Review Sentiment Classification 
 
 ## Project Overview
-This project classifies IMDb movie reviews as positive** or negative using machine learning models.
+This project classifies IMDb movie reviews as positive or negative using machine learning models.
 
 
 ## Approach
